@@ -1,2 +1,6 @@
 pull
+<<<<<<< HEAD
 pull local
+=======
+pull server
+>>>>>>> e3b953fe9e92d5ed78e260f3cfd88b282becb6bf

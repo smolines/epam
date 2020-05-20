@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 git merge1
 git merge2
+=======
+git merge3
+git merge4
+>>>>>>> merge2
